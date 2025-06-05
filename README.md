@@ -1,3 +1,20 @@
+#init install
+npm install
+
+npm start
+localhost:30001
+
+#github publish
+npm install
+npm install -save gh-pages
+npm run deploy
+
+#
+
+npm run build
+npm run deploy
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
